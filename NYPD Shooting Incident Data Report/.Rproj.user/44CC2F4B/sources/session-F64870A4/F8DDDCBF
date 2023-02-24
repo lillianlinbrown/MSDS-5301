@@ -1,7 +1,7 @@
 {
     "id": "F8DDDCBF",
-    "path": "~/Documents/GitHub/MSDS-5301/NYPD Shooting Incident Data Report/NYPD Shooting Incident Data Report.Rmd",
-    "project_path": "NYPD Shooting Incident Data Report.Rmd",
+    "path": "~/Documents/GitHub/MSDS-5301/NYPD Shooting Incident Data Report/docs/NYPD Shooting Incident Data Report.Rmd",
+    "project_path": "docs/NYPD Shooting Incident Data Report.Rmd",
     "type": "r_markdown",
     "hash": "3059772935",
     "contents": "",
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "606,143",
-        "scrollLine": "597"
+        "cursorPosition": "467,30",
+        "scrollLine": "459"
     },
     "folds": "",
-    "lastKnownWriteTime": 1677249537,
+    "lastKnownWriteTime": 1677250210,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677249537285,
+    "last_content_update": 1677250210071,
     "read_only": false,
     "read_only_alternatives": []
 }
