@@ -4,7 +4,9 @@ author: "Lillian Brown"
 date: '2023-02-22'
 output:
   html_document:
-    df_print: paged
+    fig_caption: yes
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
